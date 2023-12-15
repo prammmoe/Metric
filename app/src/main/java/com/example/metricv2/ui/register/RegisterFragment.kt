@@ -46,13 +46,6 @@ class RegisterFragment : Fragment() {
     }
 
     private fun init() {
-//        binding.RegButton.setOnClickListener {
-//            val name = binding.fullName.text.toString()
-//            val email = binding.email.text.toString()
-//            val password = binding.password.text.toString()
-//            val user = UserEntity(0, name, email, password)
-//            viewModel.insertUser(user)
-//        }
         with(binding) {
             RegButton.setOnClickListener {
                 val name = binding.fullName.text.toString()

@@ -4,9 +4,8 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.metricv2.Repository
+import com.example.metricv2.data.Repository
 import com.example.metricv2.data.remote.response.AllFoodList
-import com.example.metricv2.data.remote.response.RandomFoodList
 import kotlinx.coroutines.launch
 import retrofit2.Response
 import java.lang.Exception

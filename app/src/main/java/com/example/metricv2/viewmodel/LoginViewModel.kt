@@ -4,7 +4,7 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.metricv2.Repository
+import com.example.metricv2.data.Repository
 import com.example.metricv2.data.local.entity.UserEntity
 import kotlinx.coroutines.launch
 

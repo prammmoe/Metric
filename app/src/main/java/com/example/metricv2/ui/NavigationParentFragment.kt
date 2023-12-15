@@ -1,10 +1,11 @@
-package com.example.metricv2
+package com.example.metricv2.ui
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.example.metricv2.R
 import com.example.metricv2.databinding.FragmentNavigationParentBinding
 import com.example.metricv2.ui.home.HomeFragment
 import com.example.metricv2.ui.menu.insight.InsightFragment

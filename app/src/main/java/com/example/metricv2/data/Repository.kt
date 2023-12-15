@@ -1,4 +1,4 @@
-package com.example.metricv2
+package com.example.metricv2.data
 
 import com.example.metricv2.data.local.LocalRepository
 import com.example.metricv2.data.local.UserDataBase
